@@ -1,4 +1,4 @@
-# investment-project 
+# Investment-Project 
 # React Comprehensive UI Components Project
 Project Overview
 
